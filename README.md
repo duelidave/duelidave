@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @duelidave
+- 👀 I’m interested in vim
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: PM
